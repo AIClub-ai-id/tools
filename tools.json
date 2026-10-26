@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Ollama",
+    "repo": "ollama/ollama",
+    "category": "developer",
+    "description_id": "Jalankan model AI (Llama, Qwen, dll) langsung di komputer sendiri — gratis dan tanpa internet.",
+    "url": "https://ollama.com"
+  },
+  {
+    "name": "Open WebUI",
+    "repo": "open-webui/open-webui",
+    "category": "developer",
+    "description_id": "Antarmuka chat AI mirip ChatGPT yang bisa di-host sendiri, cocok dipasangkan dengan Ollama.",
+    "url": "https://openwebui.com"
+  },
+  {
+    "name": "n8n",
+    "repo": "n8n-io/n8n",
+    "category": "umkm",
+    "description_id": "Otomasi workflow visual — sambungkan WhatsApp, email, sheet, dan AI tanpa coding berat.",
+    "url": "https://n8n.io"
+  },
+  {
+    "name": "Whisper",
+    "repo": "openai/whisper",
+    "category": "kreator",
+    "description_id": "Ubah audio jadi teks (transkripsi) akurat dan gratis — cocok untuk subtitle konten video.",
+    "url": "https://github.com/openai/whisper"
+  },
+  {
+    "name": "LibreChat",
+    "repo": "danny-avila/LibreChat",
+    "category": "developer",
+    "description_id": "Chat AI multi-provider yang di-host sendiri — satu antarmuka untuk banyak model AI.",
+    "url": "https://librechat.ai"
+  }
+]
